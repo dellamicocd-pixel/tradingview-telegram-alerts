@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-TELEGRAM_BOT_TOKEN = "8056048982:AAHZYpPdPgqX6K-t_zuL2SI4xK-VWpeuvkE"
+TELEGRAM_BOT_TOKEN = "8056048982:AAHZYpPdPgqX6K-i_zuL2Sl4xK-VWpeuvkE"
 TELEGRAM_CHAT_ID = "5017851215"
 
 def send_telegram(message):
